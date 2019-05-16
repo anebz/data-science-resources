@@ -13,3 +13,7 @@ This information may well serve as a hub of resources for ourselves or to anyone
 
 * [How to deal with an imbalanced dataset](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)
 * [Practical advice for technical writing](https://towardsdatascience.com/practical-advice-for-data-science-writing-cc842795ed52)
+
+## Cryptography
+
+* [Esteganografía lingüística y canales encubiertos](https://github.com/mindcrypt/libros/blob/master/Esteganograf%C3%ADa%20ling%C3%BC%C3%ADstica%20y%20canales%20encubiertos%20-%20libro.pdf)
