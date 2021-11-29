@@ -8,6 +8,7 @@ This information may well serve as a hub of resources for ourselves or to anyone
 ## Online courses
 
 * [CS231n: CNNs for visual recognition](http://cs231n.stanford.edu/2017/)
+* [Deep learning for computer vision, Michigan 2020](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 
 ## Other articles
 
